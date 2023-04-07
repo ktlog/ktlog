@@ -13,13 +13,19 @@
     </a>
 </div>
 
+ 
+- :page_facing_up: I took a python developer course - [Certificate](https://cloud.mail.ru/public/Qrkr/vNmpwtuza)
+- :dart: Systematically delve into Python and move towards a full stack
+- :basketball: I'm currently learning **FastAPI, React**
+- :briefcase: Learn about my experiences in [CV](https://cloud.mail.ru/public/Stre/jps2umDgm)
+- :earth_asia: I speak English
 
-### About me 
-- I took a python developer course [Certificate](https://cloud.mail.ru/public/Qrkr/vNmpwtuza)
-- I'm currently learning **FastAPI, React**
-- Learn about my experiences [CV](https://cloud.mail.ru/public/Stre/jps2umDgm)
-- I speak English
 
+<div id="stat" align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ktlog&theme=github_dark"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ktlog&theme=github_dark"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ktlog&theme=github_dark"/>
+</div>
 
 
 [//]: # (<div id="gif" align="center">)
