@@ -21,11 +21,11 @@
 - :earth_asia: I speak English
 
 
-<div id="stat" align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ktlog"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ktlog"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ktlog"/>
-</div>
+![ktlog's GitHub stats](https://github-readme-stats.vercel.app/api?username=ktlog&show_icons=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ktlog)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ktlog&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [//]: # (<div id="gif" align="center">)
