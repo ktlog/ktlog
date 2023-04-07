@@ -22,9 +22,9 @@
 
 
 <div id="stat" align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ktlog&theme=github_dark"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ktlog&theme=github_dark"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ktlog&theme=github_dark"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ktlog"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ktlog"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ktlog"/>
 </div>
 
 
