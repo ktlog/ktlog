@@ -14,7 +14,7 @@
 </div>
 
  
-- :page_facing_up: I took a python developer course - [Certificate](https://cloud.mail.ru/public/Qrkr/vNmpwtuza)
+- :page_facing_up: I took a one-year python developer course - [Certificate](https://cloud.mail.ru/public/Qrkr/vNmpwtuza)
 - :dart: Systematically delve into Python and move towards a full stack
 - :basketball: I'm currently learning **FastAPI, React**
 - :briefcase: Learn about my experiences in [CV](https://cloud.mail.ru/public/Stre/jps2umDgm)
