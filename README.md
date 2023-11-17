@@ -4,9 +4,9 @@
 
 
  <div id="socials" style="text-align: center">
-    <a href="https://t.me/tikkonov">
+<!--     <a href="https://t.me/tikkonov">
         <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-    </a>
+    </a> -->
 
 [//]: # (    <a href="https://www.linkedin.com/in/kirill-tikhonov-b22763b9/">)
 
