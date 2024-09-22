@@ -1,5 +1,5 @@
 <div id="header" style="text-align: center">
-    <h1>Python developer</h1> 
+    <h1>Dev</h1> 
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ktlog&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
